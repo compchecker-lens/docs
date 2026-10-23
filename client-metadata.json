@@ -1,8 +1,8 @@
 {
-  "client_id": "https://otamer-git.github.io/compcheck-lens/client-metadata.json",
+  "client_id": "https://compchecker-lens.github.io/docs/client-metadata.json",
   "client_name": "CompCheck Lens",
-  "client_uri": "https://github.com/otamer-git/compcheck-lens",
-  "policy_uri": "https://otamer-git.github.io/compcheck-lens/privacy.html",
+  "client_uri": "https://github.com/compchecker-lens/docs",
+  "policy_uri": "https://compchecker-lens.github.io/docs/privacy.html",
   "redirect_uris": [
     "https://ldcmmngmamdfhmcmckjfefcbjdnofhmj.chromiumapp.org/",
     "https://jhocigipgdhkaamljjipabdlkblconnb.chromiumapp.org/"
