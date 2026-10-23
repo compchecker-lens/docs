@@ -1,0 +1,14 @@
+{
+  "client_id": "https://otamer-git.github.io/compcheck-lens/client-metadata.json",
+  "client_name": "CompCheck Lens",
+  "client_uri": "https://github.com/otamer-git/compcheck-lens",
+  "policy_uri": "https://otamer-git.github.io/compcheck-lens/privacy.html",
+  "redirect_uris": [
+    "https://ldcmmngmamdfhmcmckjfefcbjdnofhmj.chromiumapp.org/",
+    "https://jhocigipgdhkaamljjipabdlkblconnb.chromiumapp.org/"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "market:read portfolio:read offline_access"
+}
